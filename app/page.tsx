@@ -11,7 +11,7 @@ export default function Home() {
       <p className="mt-3 text-center text-lg text-neutral-400 max-w-screen-md">
         This is a placeholder for the portfolio page. Please check back later.
         or you can visit my{" "}
-        <Link href="#">
+        <Link href="https://stefanrotari.vercel.app/">
           <span className="text-white underline">old portfolio page</span>
         </Link>{" "}
         for more information.
